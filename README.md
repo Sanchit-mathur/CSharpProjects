@@ -73,8 +73,7 @@ To run the Calculator application, follow these steps:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/CSharpProjects.git
-   cd CSharpProjects/Calculator
+   https://github.com/Sanchit-mathur/CSharpProjects/blob/main/CalculatorApp.cs
    ```
 
 ### User Interaction
