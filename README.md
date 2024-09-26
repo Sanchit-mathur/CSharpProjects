@@ -16,7 +16,6 @@ Welcome to the CSharpProjects repository! This collection includes two practical
   - [User Interaction](#user-interaction-1)
   - [Code Overview](#code-overview-1)
 - [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -92,8 +91,5 @@ The Calculator application consists of a main program file that interacts with u
 - Expand the Calculator to include advanced mathematical functions.
 - Integrate data persistence for the Contact Book, allowing contacts to be saved and loaded from a file.
 
-## Contributing
-Contributions are welcome! If you'd like to improve this repository, please fork it and submit a pull request.
-
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
