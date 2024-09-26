@@ -1,9 +1,8 @@
 # CSharpProjects
 
-Welcome to the **CSharpProjects** repository! This collection includes two practical applications implemented in C#: a **Contact Book** application and a **Calculator** application. Each project serves as a hands-on demonstration of fundamental programming concepts and provides users with useful functionality, showcasing how to manage data and perform computations effectively.
+Welcome to the CSharpProjects repository! This collection includes two practical applications implemented in C#: a Contact Book application and a Calculator application. Each project serves as a hands-on demonstration of fundamental programming concepts and provides users with useful functionality, showcasing how to manage data and perform computations effectively.
 
 ## Table of Contents
-
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Project 1: Contact Book](#project-1-contact-book)
@@ -21,23 +20,19 @@ Welcome to the **CSharpProjects** repository! This collection includes two pract
 - [License](#license)
 
 ## Overview
-
-This repository aims to provide practical experience with C# programming and software development practices. The **Contact Book** application allows users to efficiently manage their contacts, storing essential information like names, departments, and emails. The **Calculator** application performs basic arithmetic operations, making it easy for users to compute values in a user-friendly manner.
+This repository aims to provide practical experience with C# programming and software development practices. The Contact Book application allows users to efficiently manage their contacts, storing essential information like names, departments, and emails. The Calculator application performs basic arithmetic operations, making it easy for users to compute values in a user-friendly manner.
 
 These applications are designed to be straightforward, making them suitable for beginners learning C# while also providing a solid foundation for more advanced features and improvements.
 
 ## Technologies Used
-
 - **C#**: The primary programming language used to develop both applications.
 - **.NET SDK**: A framework for building and running applications in C#. Ensure you have the latest version installed.
 - **Visual Studio or any text editor**: Recommended for writing and executing C# code, but not strictly required.
 
 ## Project 1: Contact Book
-
-The Contact Book application is designed to help users organize and manage their contacts effectively. 
+The Contact Book application is designed to help users organize and manage their contacts effectively.
 
 ### Features
-
 - **Add New Contacts**: Users can add contacts with their name, department, and email. This feature allows for quick entry of essential information.
 - **Search for Contacts**: Easily find contacts by entering their name, making it simple to retrieve important details without browsing through a long list.
 - **Update Existing Contacts**: Modify contact details, such as department and email. This flexibility ensures that users can keep their contact information current.
@@ -45,12 +40,60 @@ The Contact Book application is designed to help users organize and manage their
 - **List All Contacts**: View a complete list of all added contacts in a formatted display, providing a quick overview of all entries.
 
 ### Getting Started
-
 To run the Contact Book application, follow these steps:
 
-1. **Prerequisites**: Ensure you have the .NET SDK installed on your machine. You can download it from [dotnet.microsoft.com](https://dotnet.microsoft.com/).
-  
+1. **Prerequisites**: Ensure you have the .NET SDK installed on your machine. You can download it from [dotnet.microsoft.com](https://dotnet.microsoft.com).
+   
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/CSharpProjects.git
    cd CSharpProjects/ContactBook
+   ```
+
+### User Interaction
+The application is designed with a simple console interface, allowing users to navigate through options to add, search, update, delete, or list contacts.
+
+### Code Overview
+The Contact Book application is structured with a main program file that handles user input and a class that encapsulates contact management functionality.
+
+---
+
+## Project 2: Calculator
+The Calculator application provides a simple and intuitive interface for performing basic arithmetic operations.
+
+### Features
+- **Basic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Clear Entry**: Users can reset the current calculation at any time.
+- **History of Calculations**: Maintains a history of previous calculations for reference.
+- **User-Friendly Interface**: Console-based interface that guides users through calculations step-by-step.
+
+### Getting Started
+To run the Calculator application, follow these steps:
+
+1. **Prerequisites**: Ensure you have the .NET SDK installed on your machine. You can download it from [dotnet.microsoft.com](https://dotnet.microsoft.com).
+
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/CSharpProjects.git
+   cd CSharpProjects/Calculator
+   ```
+
+### User Interaction
+The Calculator features a straightforward console interface. Users input numbers and select operations through prompts, making it easy to perform calculations.
+
+### Code Overview
+The Calculator application consists of a main program file that interacts with users and a separate class that manages the arithmetic operations and calculation history.
+
+---
+
+## Future Improvements
+- Implement a graphical user interface (GUI) for both applications to enhance usability.
+- Add error handling and input validation to ensure robust performance.
+- Expand the Calculator to include advanced mathematical functions.
+- Integrate data persistence for the Contact Book, allowing contacts to be saved and loaded from a file.
+
+## Contributing
+Contributions are welcome! If you'd like to improve this repository, please fork it and submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
