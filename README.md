@@ -32,6 +32,7 @@ These applications are designed to be straightforward, making them suitable for 
 ## Project 1: Contact Book
 The Contact Book application is designed to help users organize and manage their contacts effectively.
 
+
 ### Features
 - **Add New Contacts**: Users can add contacts with their name, department, and email. This feature allows for quick entry of essential information.
 - **Search for Contacts**: Easily find contacts by entering their name, making it simple to retrieve important details without browsing through a long list.
@@ -45,7 +46,9 @@ To run the Contact Book application, follow these steps:
 1. **Prerequisites**: Ensure you have the .NET SDK installed on your machine. You can download it from [dotnet.microsoft.com](https://dotnet.microsoft.com).
    
 2. **Clone the Repository**:
-      
+   ```bash
+   https://github.com/Sanchit-mathur/CSharpProjects/blob/main/CalculatorApp.cs
+   ```      
 
 
 ### User Interaction
