@@ -45,10 +45,9 @@ To run the Contact Book application, follow these steps:
 1. **Prerequisites**: Ensure you have the .NET SDK installed on your machine. You can download it from [dotnet.microsoft.com](https://dotnet.microsoft.com).
    
 2. **Clone the Repository**:
-   ```bash
-git clone https://github.com/Sanchit-mathur/CSharpProjects.git
+   git clone https://github.com/Sanchit-mathur/CSharpProjects.git
 cd CSharpProjects/ContactBook
-   ```
+
 
 ### User Interaction
 The application is designed with a simple console interface, allowing users to navigate through options to add, search, update, delete, or list contacts.
