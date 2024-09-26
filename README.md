@@ -17,6 +17,7 @@ Welcome to the CSharpProjects repository! This collection includes two practical
   - [Code Overview](#code-overview-1)
 - [Future Improvements](#future-improvements)
 - [License](#license)
+- [Screenshots](#screenshots) 
 
 ## Overview
 This repository aims to provide practical experience with C# programming and software development practices. The Contact Book application allows users to efficiently manage their contacts, storing essential information like names, departments, and emails. The Calculator application performs basic arithmetic operations, making it easy for users to compute values in a user-friendly manner.
@@ -93,3 +94,5 @@ The Calculator application consists of a main program file that interacts with u
 
 ## License
 This project is licensed under the MIT License.
+
+## Screenshots
