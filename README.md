@@ -46,8 +46,8 @@ To run the Contact Book application, follow these steps:
    
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/CSharpProjects.git
-   cd CSharpProjects/ContactBook
+   [git clone https://github.com/yourusername/CSharpProjects.git
+   cd CSharpProjects/ContactBook](https://github.com/Sanchit-mathur/CSharpProjects/blob/main/ContactBookApp.cs)
    ```
 
 ### User Interaction
